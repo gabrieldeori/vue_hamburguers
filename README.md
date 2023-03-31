@@ -9,6 +9,6 @@ Aplicação para gerenciamento de pedidos de uma hamburgueria.(Processo de final
 
 - [Link de outros "deploys" de projetos em Javascript](https://simple-case-study.vercel.app/)
 
-- [Link para essa documentação](https://github.com/gabrieldeori/laravel-agenda-eventos/)
+- [Link para essa documentação](https://github.com/gabrieldeori/vue_hamburguers)
 
-  https://github.com/gabrieldeori/laravel-agenda-eventos/
+  https://github.com/gabrieldeori/vue_hamburguers
