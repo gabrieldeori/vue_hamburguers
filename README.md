@@ -5,7 +5,7 @@ Aplicação para gerenciamento de pedidos de uma hamburgueria.(Processo de final
 - [Índice]()
 - [Links para projeto]()
 
-## Links
+## Links para projeto
 
 - [Link de outros "deploys" de projetos em Javascript](https://simple-case-study.vercel.app/)
 
